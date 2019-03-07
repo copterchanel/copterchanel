@@ -1,2 +1,3 @@
-# copterchanel
-build luncher minecraft
+# namtium
+
+An another Minecraft launcher written in Java.
